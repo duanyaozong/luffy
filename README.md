@@ -2,20 +2,14 @@
 
 > A Vue.js project
 
-## Build Setup
+功能：
 
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+    主页页面，轮播图
+    
+    登录页面，点击动画认证
+    
+    购物车页面，显示添加进购物车的课程列表，删除课程，修改套餐，计算总计花费
+    
+    课程页面，不同大类课程分类，每个大类下的各种课程及其详细情况，选择课程的套餐添加购物车进行购买
+    
+    还可添加其他功能，如轻课、微课等
